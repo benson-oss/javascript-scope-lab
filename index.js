@@ -11,10 +11,8 @@ function addBurger(){
     burgers.push( anotherNewBurger)
 };
 }
-
 console.log(burgers);
 function changeFeaturedDrink(){
     featuredDrink="The JavaShake";
 }
-
 console.log(featuredDrink);
